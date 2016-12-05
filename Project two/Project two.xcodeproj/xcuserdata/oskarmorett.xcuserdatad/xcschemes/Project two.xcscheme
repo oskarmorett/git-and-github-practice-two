@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4C9C74141DF61BE7008B68E9"
-               BuildableName = "git-and-github-practice-two project.app"
-               BlueprintName = "git-and-github-practice-two project"
-               ReferencedContainer = "container:git-and-github-practice-two project.xcodeproj">
+               BlueprintIdentifier = "4C9C74581DF63418008B68E9"
+               BuildableName = "Project two.app"
+               BlueprintName = "Project two"
+               ReferencedContainer = "container:Project two.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C9C74141DF61BE7008B68E9"
-            BuildableName = "git-and-github-practice-two project.app"
-            BlueprintName = "git-and-github-practice-two project"
-            ReferencedContainer = "container:git-and-github-practice-two project.xcodeproj">
+            BlueprintIdentifier = "4C9C74581DF63418008B68E9"
+            BuildableName = "Project two.app"
+            BlueprintName = "Project two"
+            ReferencedContainer = "container:Project two.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C9C74141DF61BE7008B68E9"
-            BuildableName = "git-and-github-practice-two project.app"
-            BlueprintName = "git-and-github-practice-two project"
-            ReferencedContainer = "container:git-and-github-practice-two project.xcodeproj">
+            BlueprintIdentifier = "4C9C74581DF63418008B68E9"
+            BuildableName = "Project two.app"
+            BlueprintName = "Project two"
+            ReferencedContainer = "container:Project two.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4C9C74141DF61BE7008B68E9"
-            BuildableName = "git-and-github-practice-two project.app"
-            BlueprintName = "git-and-github-practice-two project"
-            ReferencedContainer = "container:git-and-github-practice-two project.xcodeproj">
+            BlueprintIdentifier = "4C9C74581DF63418008B68E9"
+            BuildableName = "Project two.app"
+            BlueprintName = "Project two"
+            ReferencedContainer = "container:Project two.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:git-and-github-practice-two project.xcodeproj">
+      location = "self:Project two.xcodeproj">
    </FileRef>
 </Workspace>

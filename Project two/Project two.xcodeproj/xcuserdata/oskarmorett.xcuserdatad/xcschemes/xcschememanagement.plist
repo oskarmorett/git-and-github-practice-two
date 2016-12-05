@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>git-and-github-practice-two project.xcscheme</key>
+		<key>Project two.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4C9C74141DF61BE7008B68E9</key>
+		<key>4C9C74581DF63418008B68E9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
